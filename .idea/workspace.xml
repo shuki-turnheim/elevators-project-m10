@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c797781-541d-4fef-8c11-c75fddce7e7f" name="Changes" comment="pychamp-files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shuki-turnheim"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shuki-turnheim/elevators-project-m10.git",
+    "accountId": "a861ab56-aba4-43fb-b350-f8146732b02f"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000777" />
+      <entry key="MS500" value="1.0025999266906973" />
+      <entry key="S2" value="1.3572035336315098" />
+      <entry key="S5" value="2.313253774035494" />
+      <entry key="S10" value="3.383933749843548" />
+      <entry key="S30" value="4.837237564816174" />
+      <entry key="S60" value="5.370240824648237" />
+      <entry key="M2" value="5.671859881650186" />
+      <entry key="M5" value="5.865398338361061" />
+      <entry key="M10" value="5.932127353245442" />
+      <entry key="M15" value="5.954623422675272" />
+      <entry key="M30" value="5.977247367009553" />
+      <entry key="H1" value="5.988607546349417" />
+      <entry key="H2" value="5.994299732482917" />
+      <entry key="H4" value="5.997148855266965" />
+      <entry key="D1" value="5.99952466872995" />
+      <entry key="W1" value="5.999932092091606" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9726549474123616" />
+      <entry key="MS500" value="0.9970584290047575" />
+      <entry key="S2" value="1.3553032730271677" />
+      <entry key="S5" value="2.3116610594395497" />
+      <entry key="S10" value="3.3824322883776694" />
+      <entry key="S30" value="4.8363339689645555" />
+      <entry key="S60" value="5.369706869966164" />
+      <entry key="M2" value="5.6715688880731285" />
+      <entry key="M5" value="5.865275669698772" />
+      <entry key="M10" value="5.932064928547906" />
+      <entry key="M15" value="5.95458156045299" />
+      <entry key="M30" value="5.977226312145683" />
+      <entry key="H1" value="5.988596987814396" />
+      <entry key="H2" value="5.994294445418932" />
+      <entry key="H4" value="5.997146209783261" />
+      <entry key="D1" value="5.999524227544708" />
+      <entry key="W1" value="5.999932029058497" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EYKOt58aPtvs6FA64v2BxMm7E4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c797781-541d-4fef-8c11-c75fddce7e7f" name="Changes" comment="" />
+      <created>1780350033384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780350033384</updated>
+      <workItem from="1780350034399" duration="1164000" />
+    </task>
+    <task id="LOCAL-00001" summary="pychamp-files">
+      <option name="closed" value="true" />
+      <created>1780351183330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780351183330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Writing comments is complete" />
+    <MESSAGE value="pychamp-files" />
+    <option name="LAST_COMMIT_MESSAGE" value="pychamp-files" />
+  </component>
+</project>
